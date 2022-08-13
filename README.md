@@ -14,3 +14,7 @@ The intention is to use Digispark as a replacement for the Rubber Ducky which is
 
 - [Rubber Ducky Payloads](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads)
 - [digiQuack](https://github.com/CedArctic/digiQuack)
+
+## License
+
+Licensed under the MIT License. See [`LICENSE`](LICENSE) for more details.
